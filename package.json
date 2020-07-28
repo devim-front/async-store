@@ -1,6 +1,6 @@
 {
   "name": "@devim-front/async-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Хранилище состояния асинхронной функции.",
   "main": "build/index.js",
   "publishConfig": {
