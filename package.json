@@ -2,7 +2,7 @@
   "name": "@devim-front/async-store",
   "version": "1.0.0",
   "description": "Хранилище состояния асинхронной функции.",
-  "main": "index.js",
+  "main": "build/index.js",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
