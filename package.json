@@ -33,6 +33,7 @@
     "@types/mocha": "^7.0.2",
     "chai": "^4.2.0",
     "husky": "^4.2.5",
+    "mobx": "^6.0.4",
     "mocha": "^7.2.0",
     "np": "^6.2.3",
     "npm-run-all": "^4.1.5",
@@ -53,7 +54,9 @@
   "homepage": "https://github.com/devim-front/async-store#readme",
   "dependencies": {
     "@devim-front/store": "^1.0.0",
-    "mobx": "^5.15.4",
     "utility-types": "^3.10.0"
+  },
+  "peerDependencies": {
+    "mobx": "^6.0.x"
   }
 }
